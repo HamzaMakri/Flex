@@ -1,0 +1,14 @@
+﻿body {
+    background-color: #303050;
+    color: ghostwhite;
+    border: 1px solid red;
+    width: 50%;
+
+    margin: auto
+}
+p {
+    background-color: #505070;
+    border:2px solid green;
+    padding: 30px;
+    margin-left: 10px
+}
