@@ -69,6 +69,13 @@
   <ItemGroup>
     <Content Include="Flex.css" />
     <Content Include="Flex.html" />
+    <Content Include="image\calendar.png" />
+    <Content Include="image\email.png" />
+    <Content Include="image\finance.png" />
+    <Content Include="image\game.png" />
+    <Content Include="image\music.png" />
+    <Content Include="image\voyage.png" />
+    <Content Include="image\weather.png" />
     <Content Include="Page1.css" />
     <Content Include="Page1.html" />
     <Content Include="Page2.css" />
