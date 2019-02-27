@@ -1,0 +1,36 @@
+﻿
+#flex-container {
+    background-color: lightgrey;
+    border: 1px solid gray;
+    height: 600px;
+    display:flex ;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: unset;
+    align-items: flex-end;
+
+}
+
+.flex-item {
+    width: 300px;
+
+}
+
+    .flex-item:nth-child(1) {
+        background-color: cornflowerblue;
+
+
+        flex: 1; 
+    }
+
+    .flex-item:nth-child(2) {
+        background-color: green;
+
+    }
+
+    .flex-item:nth-child(3) {
+        background-color: red;
+ 
+        flex: 1; 
+    }
+    

@@ -1,0 +1,11 @@
+﻿body {
+
+}
+
+p {
+    color: azure;
+    background-color: #303050;
+    display: inline-block;
+    width: 200px ;
+    vertical-align:top;
+}

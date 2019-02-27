@@ -1,0 +1,64 @@
+﻿body {
+    font-family: Calibri,Arial,sans-serif;
+    background-color: #343752;
+    color: azure;
+}
+
+h1 {
+    padding-bottom: 50px;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: unset;
+}
+
+.cine {
+    background-color: #37B6B7;
+    padding: 10px;
+
+}
+
+    .cine img {
+        justify-content: flex-start;
+        opacity: 0.5;
+        display: flex;
+    }
+
+.finance {
+    background-color: #683FB7;
+    padding: 10px;
+}
+
+.sport {
+    background-color: #B71C54;
+    padding: 10px;
+}
+
+.meteo {
+    background-color: #4C98E7;
+    padding: 10px;
+}
+
+.item {
+}
+
+#game {
+    background-color: #B71C54;
+}
+
+#music {
+    background-color: #DA542D;
+}
+
+.voyage {
+}
+
+#container > div {
+    margin: 5px;
+    width: 310px;
+    height: 150px;
+}
